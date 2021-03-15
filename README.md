@@ -18,6 +18,8 @@ For more details, see my [Linkedin profile](https://www.linkedin.com/in/flaviost
   width=550
 />
 
+For more details [click here](https://profile.codersrank.io/user/flaviostutz/).
+
 ## Current Github stats
 
 [![Flavio Stutz's github stats](https://github-readme-stats.vercel.app/api?username=flaviostutz)](https://github.com/anuraghazra/github-readme-stats)
