@@ -18,6 +18,11 @@ For more details, see my [Linkedin profile](https://www.linkedin.com/in/flaviost
   width=550
 />
 
+<img
+  src="Screen Shot 2021-03-26 at 11.56.40.png"
+  width=650
+/>
+
 For more details [click here](https://profile.codersrank.io/user/flaviostutz/).
 
 ## Current Github stats
