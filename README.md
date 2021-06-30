@@ -1,7 +1,7 @@
 
 ## About me
 
-I am a builder by passion and a programmer by profession. I've been architecting/implementing high load/critical systems for a long time along with great guys around me.
+I am a builder by passion and I've been architecting/implementing high load/critical systems with great guys and girls since the birth of the Internet!
 
 Been in-depth through Delphi (haha!), C, C++, Java, Python/Jupyter ❤️, Golang ❤️, OpenCV, Computer Vision ❤️, Machine Learning, Convolutional Networks ❤️, Ceph, Hadoop, Spark, NodeJS, ReactNative Mobile Android/iOS ❤️, Blockchain, ReactJS ❤️, AngularJS, Rest APIs, GraphQL, OAuth2, JWT, WAF, Docker ❤️, Swarm ❤️, Kubernetes, Prometheus, Grafana, Advanced Networking security, Clustered MongoDB, Cassandra ❤️, Postgres, MySQL, Kafka ❤️, AWS ❤️, VPS, Digital Ocean, IoT, designing and manufacturing electronic devices ❤️, participating on Kaggle competitions, UAV competitions in Australia ❤️, founded some startups and have lots of experience on a huge enterprise (100k+ employees) as an innovation architect.
 
