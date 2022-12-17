@@ -1,4 +1,3 @@
-
 ## About me
 
 I am a builder by passion and I've been architecting/implementing high load/critical systems with great guys and girls since the birth of the Internet!
@@ -28,3 +27,5 @@ For more details [click here](https://profile.codersrank.io/user/flaviostutz/).
 ## Current Github stats
 
 [![Flavio Stutz's github stats](https://github-readme-stats.vercel.app/api?username=flaviostutz)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=flaviostutz&color=green) (since dec/2022)
